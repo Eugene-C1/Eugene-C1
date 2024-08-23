@@ -1,16 +1,16 @@
-## Hi there 👋
+## Introducing Myself 🙋🏻‍♂️
+Hi there! 👋🏻 I'm Eugene, and I'm currently diving into the world of data analysis. With a background in Business Analyst writing documentation, customer support, and Excel, I'm now expanding my skill set into SQL, data visualization, and more.
 
-<!--
-**Eugene-C1/Eugene-C1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📂 Projects
+I'm working on various projects related to data analysis, this is where I showcase my [projects]()
 
-Here are some ideas to get you started:
+### 🧰 Tools
+* Language: SQL, Python
+* Database: Google BigQuery, PostgreSQL, MySQL
+* Visualization: Tableau
+  
+### 👋🏻 Connect with Me
+* [Linkedin](www.linkedin.com/in/eugenejerick)
+* Hire me on [Upwork](https://www.upwork.com/freelancers/~01ed1faef1dbaad0ba?mp_source=share) and [OLJ](https://www.onlinejobs.ph/jobseekers/info/3601730)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
