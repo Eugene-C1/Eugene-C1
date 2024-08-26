@@ -1,5 +1,5 @@
 ## 🙋🏻‍♂️ Introducing Myself
-![Portfolio (1)](https://github.com/user-attachments/assets/ed5f8f86-b498-429f-b30a-c7c920afffb9)
+![Portfolio (2)](https://github.com/user-attachments/assets/2ec92393-5d20-4293-80ba-7fcb1e5e8eab)
 
 Hi there! 👋🏻 I'm Eugene, and I'm currently diving into the world of data analysis. With a background in Business Analyst writing documentation, customer support, and Excel, I'm now expanding my skill set into SQL, data visualization, and more.
 
